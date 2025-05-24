@@ -36,7 +36,3 @@ This concept landing page emphasizes mindful branding, natural tones, and wellne
 ## 🌐 Live Demo
 
 🔗 [Visit the Live Site](https://drip-therapy.netlify.app)
-
----
-
-## 📂 Folder Structure
